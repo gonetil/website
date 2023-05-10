@@ -57,7 +57,7 @@ details.
 To build `mcaptcha`, you need the following dependencies:
 
 1. rust
-2. node(`v14.16.0`)
+2. node(`v14.17.0`)
 3. yarn(JavaScript package manager)
 4. make
 
@@ -69,7 +69,7 @@ To build `mcaptcha`, you need the following dependencies:
 $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-2. Install node(`v14.16.0`)
+2. Install node(`v14.16.0` or `v16.x`)
 
 3. Install yarn(JavaScript package manager)
 
